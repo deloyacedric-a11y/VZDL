@@ -103,7 +103,7 @@ export default {
                         Pasarmelo
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                        Una vez que un nivel caiga de la Legacy list, tal, si, no se que poner aqui realmente.
                     </p>
                 </div>
             </div>
